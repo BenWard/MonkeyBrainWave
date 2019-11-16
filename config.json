@@ -1,0 +1,5 @@
+{
+  "api": "https://www.monkeybrains.net/map/outages.php",
+  "warn": 4,
+  "outage": 9
+}
