@@ -22,124 +22,124 @@ At time of writing, the following neighboards are provided in the outage data fi
 This may change at any time at Monkeybrains discretion. When specifying a neighborhood,
 case and punctuation must be exact.
 
-* Mission
-* Dolores Heights
-* Bernal Heights
-* Mission Dolores
-* Noe Valley
-* Potrero Hill
+* 4th Street
+* Adams Point
 * Alamo Square
-* Peralta Heights
-* Haight Ashbury
-* Duboce Triangle
-* La Lengua
-* Lower Haight
-* Hayes Valley
-* Eureka Valley
-* Mint Hill
-* Upper Market
-* Western Addition
-* Corona Heights
-* South of Market
-* Holly Park
-* Dogpatch
-* Downtown / Union Square
-* Central Waterfront
+* Anza Vista
+* Apparel City
+* Aquatic Park / Ft. Mason
+* Ashbury Heights
+* Bayview
+* Bernal Heights
+* Bret Harte
 * Buena Vista
 * Castro
-* Showplace Square
-* Nob Hill
+* Cathedral Hill
+* Cayuga
+* Central Waterfront
+* Chinatown
 * Civic Center
-* Bret Harte
-* Fairmount
-* Japantown
-* Mission Bay
-* Polk Gulch
-* St. Marys Park
-* Bayview
-* Produce Market
 * Clarendon Heights
-* Sunnyside
-* South
+* Cleveland Heights
 * Cole Valley
-* Ashbury Heights
-* Silver Terrace
+* Coliseum
+* Coliseum Industrial
+* Corona Heights
+* Cow Hollow
+* Crocker Amazon
+* Diamond Heights
+* Dogpatch
+* Dolores Heights
+* Downtown
+* Downtown / Union Square
+* Duboce Triangle
+* Embarcadero
+* Eureka Valley
+* Excelsior
+* Fairmount
+* Financial District
+* Fishermans Wharf
+* Glen Park
+* Golden Gate Park
+* Haight Ashbury
+* Hayes Valley
+* Holly Park
+* Hunters Point
+* India Basin
+* Ingleside
+* Ingleside Terraces
+* Inner Richmond
+* Inner Sunset
+* Ironworks District
+* Ivy Hill
+* Japantown
+* La Lengua
+* Laguna Honda
+* Lake Street
+* Lakeside
+* Laurel Heights / Jordan Park
+* Lone Mountain
+* Lower Haight
+* Lower Nob Hill
+* Lower Pacific Heights
+* Marina
+* Maxwell Park
+* Midtown Terrace
+* Mint Hill
+* Miraloma Park
+* Mission
+* Mission Bay
+* Mission Dolores
+* Mission Terrace
+* Monterey Heights
+* Mt. Davidson Manor
+* Nob Hill
+* Noe Valley
+* North Beach
+* North Kennedy Tract
+* Northern Waterfront
+* Northwest Berkeley
+* Oak Center
+* Oakland Ave-Harrison Street
+* Oceanview
+* Outer Mission
+* Outer Richmond
+* Outer-outer Richmond
+* Oyster Point
+* Pacific Heights
 * Panhandle
 * Parnassus Heights
-* Glen Park
+* Peralta Heights
+* Polk Gulch
 * Portola
-* Mission Terrace
-* Rincon Hill
-* Financial District
-* Apparel City
-* South Beach
-* Oceanview
-* Excelsior
-* Lone Mountain
-* Cathedral Hill
-* Chinatown
-* Northern Waterfront
-* North Beach
-* Tenderloin
-* Pacific Heights
-* Hunters Point
-* Lower Pacific Heights
-* Telegraph Hill
-* Russian Hill
-* Fishermans Wharf
-* Anza Vista
-* Miraloma Park
-* Lower Nob Hill
-* Cayuga
-* Golden Gate Park
-* Aquatic Park / Ft. Mason
-* Marina
-* Diamond Heights
-* Presidio Heights
-* Crocker Amazon
-* Outer Richmond
-* University Mound
-* India Basin
-* Union Street
-* Laurel Heights / Jordan Park
-* Westwood Highlands
-* Downtown
-* Inner Richmond
-* Lake Street
-* Inner Sunset
+* Potrero Hill
 * Prescott
-* Outer Mission
-* Ingleside
-* Seacliff
-* Embarcadero
-* Cow Hollow
-* Outer-outer Richmond
-* Mt. Davidson Manor
-* Westwood Park
-* Treasure Island
-* Ingleside Terraces
-* Midtown Terrace
-* Oyster Point
-* Monterey Heights
+* Presidio Heights
 * Presidio Terrace
-* Northwest Berkeley
+* Produce Market
 * Produce and Waterfront
-* Laguna Honda
-* Ironworks District
-* Coliseum Industrial
-* Sherwood Forest
-* Coliseum
-* Adams Point
-* Cleveland Heights
-* Lakeside
-* Temescal
-* West Oakland
+* Rincon Hill
 * Rockridge
-* Oakland Ave-Harrison Street
-* 4th Street
-* Ivy Hill
-* West Berkeley
-* North Kennedy Tract
-* Oak Center
+* Russian Hill
+* Seacliff
+* Sherwood Forest
+* Showplace Square
+* Silver Terrace
+* South
+* South Beach
+* South of Market
+* St. Marys Park
+* Sunnyside
+* Telegraph Hill
+* Temescal
+* Tenderloin
+* Treasure Island
+* Union Street
+* University Mound
+* Upper Market
 * Visitacion Valley
-* Maxwell Park
+* West Berkeley
+* West Oakland
+* Western Addition
+* Westwood Highlands
+* Westwood Park
